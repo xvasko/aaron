@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:dropMode="nonDrop" ttp:frameRate="24" ttp:frameRateMultiplier="1000 1001" ttp:timeBase="smpte" xml:lang="09" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+
+  <head>
+    <metadata/>
+    <styling>
+      <style tts:color="white" tts:fontFamily="monospace" tts:fontWeight="normal" tts:textAlign="left" xml:id="basic"/>
+    </styling>
+    <layout>
+      <region tts:backgroundColor="transparent" xml:id="pop1"/>
+      <region tts:backgroundColor="transparent" xml:id="paint"/>
+      <region tts:backgroundColor="transparent" xml:id="rollup2"/>
+      <region tts:backgroundColor="transparent" xml:id="rollup3"/>
+      <region tts:backgroundColor="transparent" xml:id="rollup4"/>
+    </layout>
+  </head>
+
+  <body>
+    <div>
+      <p begin="00:00:16:02" end="00:00:18:11" region="pop1" style="basic" tts:origin="30.520833333333336% 83.055555555555557%">
+        <span tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Dance means so much to my life</span>
+      </p>
+      <p begin="00:00:19:18" end="00:00:22:14" region="pop1" style="basic" tts:origin="37.239583333333336% 83.055555555555557%">
+        <span tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">it has taught me a lot</span>
+      </p>
+      <p begin="00:00:23:13" end="00:00:28:19" region="pop1" style="basic" tts:origin="18.020833333333336% 83.055555555555557%">
+        <span tts:backgroundColor="#000000CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Besides becoming a professional person within dance,</span>
+      </p>
+      <p begin="00:00:29:15" end="00:00:36:06" region="pop1" style="basic" tts:origin="10% 83.055555555555557%">
+        <span tts:backgroundColor="#000000CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">it has taught me to grow as a human, as a person, as a being in general.</span>
+      </p>
+      <p begin="00:00:42:18" end="00:00:46:00" region="pop1" style="basic" tts:origin="22.34375% 83.055555555555557%">
+        <span tts:backgroundColor="#000000CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I have such a personal relationship with dance.</span>
+      </p>
+      <p begin="00:00:49:13" end="00:00:52:14" region="pop1" style="basic" tts:origin="26.5625% 83.055555555555557%">
+        <span tts:backgroundColor="#000000CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I can tell for 100%, that it's a part of me.</span>
+      </p>
+      <p begin="00:01:06:00" end="00:01:08:04" region="pop1" style="basic" tts:origin="27.03125% 83.055555555555557%">
+        <span tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I am like a bartender, going over there.</span>
+      </p>
+      <p begin="00:01:16:14" end="00:01:19:11" region="pop1" style="basic" tts:origin="24.947916666666668% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I'll introduce myself, my name is Aron Mitu</span>
+      </p>
+      <p begin="00:01:21:08" end="00:01:25:10" region="pop1" style="basic" tts:origin="17.8125% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">we've organized this workshop today as Riddim Dance</span>
+      </p>
+      <p begin="00:01:25:20" end="00:01:27:16" region="pop1" style="basic" tts:origin="35.260416666666664% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and we hope you'll like it</span>
+      </p>
+      <p begin="00:01:28:16" end="00:01:33:16" region="pop1" style="basic" tts:origin="23.645833333333332% 83.055555555555557%">
+        <span tts:backgroundColor="#2323237F" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I wasn't led to be a teacher or a dancer at all</span>
+      </p>
+      <p begin="00:01:33:16" end="00:01:35:15" region="pop1" style="basic" tts:origin="34.53125% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I wasn't led that way at all</span>
+      </p>
+      <p begin="00:01:35:15" end="00:01:41:09" region="pop1" style="basic" tts:origin="31.197916666666664% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">It started from my love to music</span>
+      </p>
+      <p begin="00:01:41:09" end="00:01:46:06" region="pop1" style="basic" tts:origin="26.145833333333332% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I liked music videos, recording them, etc</span>
+      </p>
+      <p begin="00:01:49:06" end="00:01:54:08" region="pop1" style="basic" tts:origin="26.5625% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Parties, where people saw me dancing </span>
+      </p>
+      <p begin="00:01:54:08" end="00:01:57:22" region="pop1" style="basic" tts:origin="39.635416666666664% 83.055555555555557%">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">they have liked it</span>
+      </p>
+      <p begin="00:01:57:22" end="00:02:05:09" region="pop1" style="basic" tts:origin="17.083333333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and I slowly got into that dance world until it did become</span>
+      </p>
+      <p begin="00:01:57:22" end="00:02:05:09" region="pop1" style="basic" tts:origin="34.427083333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic"> my profession eventually.</span>
+      </p>
+      <p begin="00:02:05:09" end="00:02:07:12" region="pop1" style="basic" tts:origin="30.520833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">-Accent is on the right shoulder  </span>
+      </p>
+      <p begin="00:02:07:12" end="00:02:10:05" region="pop1" style="basic" tts:origin="35.885416666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Aaa boom boom, hey? </span>
+      </p>
+      <p begin="00:02:10:05" end="00:02:13:04" region="pop1" style="basic" tts:origin="33.854166666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">But I'm onto it, boom boom</span>
+      </p>
+      <p begin="00:02:13:04" end="00:02:14:04" region="pop1" style="basic" tts:origin="46.822916666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Yes!</span>
+      </p>
+      <p begin="00:02:15:04" end="00:02:18:22" region="pop1" style="basic" tts:origin="29.427083333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Dance was created alongside ma</span>
+        <span tts:backgroundColor="#2323237F" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">n</span>
+      </p>
+      <p begin="00:02:18:22" end="00:02:23:15" region="pop1" style="basic" tts:origin="31.041666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">it was always connected to man</span>
+      </p>
+      <p begin="00:02:25:10" end="00:02:31:00" region="pop1" style="basic" tts:origin="20.104166666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">it started to evolve over time and it took some form</span>
+      </p>
+      <p begin="00:02:31:00" end="00:02:33:18" region="pop1" style="basic" tts:origin="31.5625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">That's why people study dance</span>
+      </p>
+      <p begin="00:02:38:18" end="00:02:46:14" region="pop1" style="basic" tts:origin="19.114583333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">That's why you can divide dance into entertainment, </span>
+      </p>
+      <p begin="00:02:38:18" end="00:02:46:14" region="pop1" style="basic" tts:origin="26.666666666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">educational and all kinds of other forms</span>
+      </p>
+      <p begin="00:02:48:22" end="00:02:50:09" region="pop1" style="basic" tts:origin="41.770833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">This is dance</span>
+      </p>
+      <p begin="00:02:51:00" end="00:02:57:09" region="pop1" style="basic" tts:origin="19.791666666666664% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#2323237F" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and it is up to the person how he spreads it further </span>
+      </p>
+      <p begin="00:02:51:00" end="00:02:57:09" region="pop1" style="basic" tts:origin="23.854166666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#2323237F" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">because he can choose the form it suits him</span>
+      </p>
+      <p begin="00:03:01:09" end="00:03:07:21" region="pop1" style="basic" tts:origin="13.697916666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Behind everything I have achived with dance is Riddim Dance</span>
+      </p>
+      <p begin="00:03:17:08" end="00:03:22:07" region="pop1" style="basic" tts:origin="17.604166666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">In the Riddim Dance project you can find the adult Mitu</span>
+      </p>
+      <p begin="00:03:22:07" end="00:03:26:10" region="pop1" style="basic" tts:origin="25.15625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I am the CEO of that project, which  offers</span>
+      </p>
+      <p begin="00:03:26:10" end="00:03:31:00" region="pop1" style="basic" tts:origin="24.479166666666668% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">a dance school called School of Dancehall </span>
+      </p>
+      <p begin="00:03:26:10" end="00:03:31:00" region="pop1" style="basic" tts:origin="28.125% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and it is purely about a dance school</span>
+      </p>
+      <p begin="00:03:31:00" end="00:03:33:00" region="pop1" style="basic" tts:origin="35.052083333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">that deals with dancehall</span>
+      </p>
+      <p begin="00:04:04:03" end="00:04:07:03" region="pop1" style="basic" tts:origin="34.322916666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I do everything in Ružinov</span>
+      </p>
+      <p begin="00:04:07:19" end="00:04:11:14" region="pop1" style="basic" tts:origin="34.21875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">There I live, going out, eat</span>
+      </p>
+      <p begin="00:04:12:04" end="00:04:16:16" region="pop1" style="basic" tts:origin="20.3125% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">dance, teach, organize, I do everything in Ružinov</span>
+      </p>
+      <p begin="00:04:18:00" end="00:04:19:21" region="pop1" style="basic" tts:origin="40.520833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">This is Ružinov</span>
+      </p>
+      <p begin="00:04:21:02" end="00:04:26:06" region="pop1" style="basic" tts:origin="40.104166666666664% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic"> Towards there, </span>
+      </p>
+      <p begin="00:04:21:02" end="00:04:26:06" region="pop1" style="basic" tts:origin="19.791666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">there is Ružinov, there is Ružinov, there is Ružinov</span>
+      </p>
+      <p begin="00:04:35:00" end="00:04:39:01" region="pop1" style="basic" tts:origin="13.75% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">That first moment when I actually go to teach here in Slovakia</span>
+      </p>
+      <p begin="00:04:39:01" end="00:04:42:01" region="pop1" style="basic" tts:origin="29.166666666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">as a person looking the way I look..</span>
+      </p>
+      <p begin="00:04:42:23" end="00:04:44:10" region="pop1" style="basic" tts:origin="43.802083333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Honestly..</span>
+      </p>
+      <p begin="00:04:45:22" end="00:04:51:15" region="pop1" style="basic" tts:origin="13.28125% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I grew up in Slovakia so I already have overcome these issues</span>
+      </p>
+      <p begin="00:04:52:07" end="00:04:55:17" region="pop1" style="basic" tts:origin="23.697916666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I went to primary and secondary school here</span>
+      </p>
+      <p begin="00:04:55:17" end="00:04:58:03" region="pop1" style="basic" tts:origin="32.916666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and I really experienced that</span>
+      </p>
+      <p begin="00:04:59:14" end="00:05:05:05" region="pop1" style="basic" tts:origin="21.041666666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">that very important period for a person in general</span>
+      </p>
+      <p begin="00:05:05:05" end="00:05:07:01" region="pop1" style="basic" tts:origin="27.760416666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I have experienced it here in Slovakia</span>
+      </p>
+      <p begin="00:05:07:01" end="00:05:08:19" region="pop1" style="basic" tts:origin="38.90625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Which means that</span>
+      </p>
+      <p begin="00:05:09:19" end="00:05:13:20" region="pop1" style="basic" tts:origin="21.666666666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I know Slovak people, whether they are children</span>
+      </p>
+      <p begin="00:05:13:20" end="00:05:17:16" region="pop1" style="basic" tts:origin="15.520833333333334% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">it doesn't matter, I know them, I mean from my perspective</span>
+      </p>
+      <p begin="00:05:19:11" end="00:05:27:22" region="pop1" style="basic" tts:origin="18.854166666666664% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">but for a long time it was like why do they look at me </span>
+      </p>
+      <p begin="00:05:19:11" end="00:05:27:22" region="pop1" style="basic" tts:origin="25.416666666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and why am I so strange for some people</span>
+      </p>
+      <p begin="00:05:27:22" end="00:05:30:06" region="pop1" style="basic" tts:origin="25.46875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I've been asking that question all the time</span>
+      </p>
+      <p begin="00:05:38:12" end="00:05:43:14" region="pop1" style="basic" tts:origin="11.5625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">When our mission is that we really want to take care of the others</span>
+      </p>
+      <p begin="00:05:43:14" end="00:05:48:11" region="pop1" style="basic" tts:origin="32.083333333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">they will perceive us that way </span>
+      </p>
+      <p begin="00:05:43:14" end="00:05:48:11" region="pop1" style="basic" tts:origin="25.520833333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">because </span>
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">they are processing that energy</span>
+      </p>
+      <p begin="00:05:48:11" end="00:05:52:10" region="pop1" style="basic" tts:origin="18.489583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">And once that energy is positive and ready to expand</span>
+      </p>
+      <p begin="00:05:52:10" end="00:05:54:18" region="pop1" style="basic" tts:origin="43.4375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">it will work</span>
+      </p>
+      <p begin="00:05:54:18" end="00:05:57:07" region="pop1" style="basic" tts:origin="33.072916666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">we have great time together</span>
+      </p>
+      <p begin="00:06:01:17" end="00:06:03:07" region="pop1" style="basic" tts:origin="37.135416666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Cool, do you have it?</span>
+      </p>
+      <p begin="00:06:05:10" end="00:06:09:06" region="pop1" style="basic" tts:origin="17.083333333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Now somebody's going to do what I've been doing here,</span>
+      </p>
+      <p begin="00:06:05:10" end="00:06:09:06" region="pop1" style="basic" tts:origin="36.822916666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">going to hype like this</span>
+      </p>
+      <p begin="00:06:09:06" end="00:06:12:03" region="pop1" style="basic" tts:origin="42.604166666666664% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I'm kidding, </span>
+      </p>
+      <p begin="00:06:09:06" end="00:06:12:03" region="pop1" style="basic" tts:origin="37.239583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">just put the music on.</span>
+      </p>
+      <p begin="00:06:55:03" end="00:06:56:04" region="pop1" style="basic" tts:origin="45.520833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">May I?</span>
+      </p>
+      <p begin="00:07:02:08" end="00:07:06:16" region="pop1" style="basic" tts:origin="22.708333333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Wow, what a feeling to do this in your own car</span>
+      </p>
+      <p begin="00:07:08:16" end="00:07:11:06" region="pop1" style="basic" tts:origin="27.864583333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Enjoy yourselves like you are at work</span>
+      </p>
+      <p begin="00:07:12:14" end="00:07:17:20" region="pop1" style="basic" tts:origin="15.729166666666666% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">It's like an office, most recently a restaurant, where we eat</span>
+      </p>
+      <p begin="00:07:30:21" end="00:07:33:01" region="pop1" style="basic" tts:origin="34.53125% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I'm ok, we are on the way</span>
+      </p>
+      <p begin="00:07:35:02" end="00:07:39:00" region="pop1" style="basic" tts:origin="21.041666666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I have everything what I need, but my question is</span>
+      </p>
+      <p begin="00:07:39:00" end="00:07:41:05" region="pop1" style="basic" tts:origin="32.239583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">do you have a makeup artist?</span>
+      </p>
+      <p begin="00:07:42:20" end="00:07:44:12" region="pop1" style="basic" tts:origin="33.177083333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Ok, no problem, no problem</span>
+      </p>
+      <p begin="00:07:45:10" end="00:07:47:02" region="pop1" style="basic" tts:origin="37.083333333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I will call you, alright?</span>
+      </p>
+      <p begin="00:07:47:10" end="00:07:48:10" region="pop1" style="basic" tts:origin="47.708333333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Ok</span>
+      </p>
+      <p begin="00:07:53:05" end="00:08:00:00" region="pop1" style="basic" tts:origin="15.416666666666666% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I prefer to plan ahead, being the most prepared on my part</span>
+      </p>
+      <p begin="00:08:00:00" end="00:08:05:10" region="pop1" style="basic" tts:origin="30.364583333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and I take my stuff with me and.. </span>
+      </p>
+      <p begin="00:08:00:00" end="00:08:05:10" region="pop1" style="basic" tts:origin="34.791666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I prefer to put makeup on</span>
+      </p>
+      <p begin="00:08:15:15" end="00:08:18:16" region="pop1" style="basic" tts:origin="17.916666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Its ok, we are downstairs, just come downstairs please</span>
+      </p>
+      <p begin="00:08:19:16" end="00:08:21:21" region="pop1" style="basic" tts:origin="35.3125% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Ok thank you, thank you</span>
+      </p>
+      <p begin="00:08:22:03" end="00:08:26:09" region="pop1" style="basic" tts:origin="42.8125% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Red gate... </span>
+      </p>
+      <p begin="00:08:22:03" end="00:08:26:09" region="pop1" style="basic" tts:origin="37.395833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I think it is over there</span>
+      </p>
+      <p begin="00:09:03:18" end="00:09:05:12" region="pop1" style="basic" tts:origin="39.322916666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Good luck, okay?</span>
+      </p>
+      <p begin="00:09:05:12" end="00:09:07:14" region="pop1" style="basic" tts:origin="37.864583333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">-So you going now?</span>
+      </p>
+      <p begin="00:09:05:12" end="00:09:07:14" region="pop1" style="basic" tts:origin="44.375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I have to</span>
+      </p>
+      <p begin="00:09:07:18" end="00:09:10:16" region="pop1" style="basic" tts:origin="33.020833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I know I know, this is my life </span>
+      </p>
+      <p begin="00:09:16:07" end="00:09:21:23" region="pop1" style="basic" tts:origin="29.21875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Home is a place where I feel good </span>
+      </p>
+      <p begin="00:09:22:14" end="00:09:29:22" region="pop1" style="basic" tts:origin="21.71875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">It is more about feeling than something physical</span>
+      </p>
+      <p begin="00:09:30:19" end="00:09:38:06" region="pop1" style="basic" tts:origin="30.364583333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I travel a lot because of dancing..</span>
+      </p>
+      <p begin="00:09:30:19" end="00:09:38:06" region="pop1" style="basic" tts:origin="39.635416666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">around the world</span>
+      </p>
+      <p begin="00:09:38:06" end="00:09:48:07" region="pop1" style="basic" tts:origin="25.416666666666668% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I can create that good feeling myself and </span>
+      </p>
+      <p begin="00:09:38:06" end="00:09:48:07" region="pop1" style="basic" tts:origin="17.395833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I don't have to be tied to any particular building or place</span>
+      </p>
+      <p begin="00:10:07:16" end="00:10:11:04" region="pop1" style="basic" tts:origin="18.333333333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">These are my brothers and sisters so you understand</span>
+      </p>
+      <p begin="00:10:11:04" end="00:10:12:14" region="pop1" style="basic" tts:origin="39.479166666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">my second home</span>
+      </p>
+      <p begin="00:10:12:14" end="00:10:13:14" region="pop1" style="basic" tts:origin="39.791666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I can hear music</span>
+      </p>
+      <p begin="00:10:17:03" end="00:10:20:03" region="pop1" style="basic" tts:origin="45.052083333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Mmmm</span>
+      </p>
+      <p begin="00:10:17:03" end="00:10:20:03" region="pop1" style="basic" tts:origin="39.375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">-Are you hungry?</span>
+      </p>
+      <p begin="00:10:21:02" end="00:10:26:02" region="pop1" style="basic" tts:origin="28.28125% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I'm already imagining how I eat that..</span>
+      </p>
+      <p begin="00:10:21:02" end="00:10:26:02" region="pop1" style="basic" tts:origin="29.739583333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">yummy, that's what I like the most</span>
+      </p>
+      <p begin="00:10:28:13" end="00:10:30:09" region="pop1" style="basic" tts:origin="30.989583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I'll probably eat everything twice</span>
+      </p>
+      <p begin="00:10:30:09" end="00:10:35:15" region="pop1" style="basic" tts:origin="19.427083333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">-Can you believe Im looking for my key everywhere </span>
+      </p>
+      <p begin="00:10:30:09" end="00:10:35:15" region="pop1" style="basic" tts:origin="28.75% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and can you imagine is in the door?</span>
+      </p>
+      <p begin="00:10:41:02" end="00:10:44:09" region="pop1" style="basic" tts:origin="38.697916666666664% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">You are welcome, </span>
+      </p>
+      <p begin="00:10:41:02" end="00:10:44:09" region="pop1" style="basic" tts:origin="38.4375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">welcome, welcome</span>
+      </p>
+      <p begin="00:10:46:15" end="00:10:51:15" region="pop1" style="basic" tts:origin="35.364583333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Every time I come here, </span>
+      </p>
+      <p begin="00:10:46:15" end="00:10:51:15" region="pop1" style="basic" tts:origin="39.635416666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">It feels like home</span>
+      </p>
+      <p begin="00:10:52:03" end="00:10:53:20" region="pop1" style="basic" tts:origin="34.375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Such a really good feeling</span>
+      </p>
+      <p begin="00:10:53:20" end="00:11:01:21" region="pop1" style="basic" tts:origin="23.28125% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">But it's not nostalgia or sadness in the sense </span>
+      </p>
+      <p begin="00:10:53:20" end="00:11:01:21" region="pop1" style="basic" tts:origin="33.4375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">that </span>
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I don't have it anymore</span>
+      </p>
+      <p begin="00:11:02:06" end="00:11:08:14" region="pop1" style="basic" tts:origin="17.03125% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I just know that when I come to this place I have it here, </span>
+      </p>
+      <p begin="00:11:02:06" end="00:11:08:14" region="pop1" style="basic" tts:origin="26.71875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I enjoy it and then I go back to Slovakia</span>
+      </p>
+      <p begin="00:11:08:19" end="00:11:11:10" region="pop1" style="basic" tts:origin="32.239583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">This is a saucer in my opinion</span>
+      </p>
+      <p begin="00:11:11:16" end="00:11:14:06" region="pop1" style="basic" tts:origin="34.479166666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">You know, for a small cup</span>
+      </p>
+      <p begin="00:11:14:06" end="00:11:18:04" region="pop1" style="basic" tts:origin="34.114583333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">This one is called Jebena. </span>
+      </p>
+      <p begin="00:11:14:06" end="00:11:18:04" region="pop1" style="basic" tts:origin="32.291666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">You can prepare a coffee in it</span>
+      </p>
+      <p begin="00:11:19:06" end="00:11:20:16" region="pop1" style="basic" tts:origin="41.041666666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Original coffee</span>
+      </p>
+      <p begin="00:11:20:16" end="00:11:27:06" region="pop1" style="basic" tts:origin="28.177083333333332% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">In Ethiopia they do a coffee session, </span>
+      </p>
+      <p begin="00:11:20:16" end="00:11:27:06" region="pop1" style="basic" tts:origin="21.5625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">like a whole ceremony starting with green coffee</span>
+      </p>
+      <p begin="00:11:27:16" end="00:11:32:08" region="pop1" style="basic" tts:origin="33.489583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">you wash it, roast it, grind it</span>
+      </p>
+      <p begin="00:11:32:08" end="00:11:39:15" region="pop1" style="basic" tts:origin="20.729166666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">then you fill it with warm water, add ground coffee</span>
+      </p>
+      <p begin="00:11:39:15" end="00:11:47:12" region="pop1" style="basic" tts:origin="20.677083333333332% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and it's prepared on the coals until it starts to boil </span>
+      </p>
+      <p begin="00:11:39:15" end="00:11:47:12" region="pop1" style="basic" tts:origin="29.6875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and you have to keep an eye on it</span>
+      </p>
+      <p begin="00:11:47:12" end="00:11:56:21" region="pop1" style="basic" tts:origin="11.510416666666666% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">because when it starts to boil it also starts to building a foam and </span>
+      </p>
+      <p begin="00:11:47:12" end="00:11:56:21" region="pop1" style="basic" tts:origin="22.447916666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">you have to take it off the fire so it doesn't boil </span>
+      </p>
+      <p begin="00:11:56:21" end="00:12:01:00" region="pop1" style="basic" tts:origin="17.34375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">In Slovakia we were taught in primary school 6th grade </span>
+      </p>
+      <p begin="00:12:01:00" end="00:12:03:06" region="pop1" style="basic" tts:origin="25.364583333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">That first man on Earth was from Ethiopia</span>
+      </p>
+      <p begin="00:12:03:06" end="00:12:05:03" region="pop1" style="basic" tts:origin="42.65625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">as a human</span>
+      </p>
+      <p begin="00:12:07:19" end="00:12:13:18" region="pop1" style="basic" tts:origin="10% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Ethiopia is one of the oldest countries in Slovakia... hehe, in the world</span>
+      </p>
+      <p begin="00:12:14:02" end="00:12:22:00" region="pop1" style="basic" tts:origin="15.78125% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">For example, Haile Selassie, I know a bit more about this, </span>
+      </p>
+      <p begin="00:12:14:02" end="00:12:22:00" region="pop1" style="basic" tts:origin="14.114583333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">was the king thanks to whom Ethiopia won over Italy in WWII</span>
+      </p>
+      <p begin="00:12:22:00" end="00:12:28:21" region="pop1" style="basic" tts:origin="14.583333333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and therefore remained as an uncolonized country in Africa. </span>
+      </p>
+      <p begin="00:12:28:21" end="00:12:33:11" region="pop1" style="basic" tts:origin="10.208333333333334% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I guess it was the only one country, or one more besides the others.</span>
+      </p>
+      <p begin="00:12:47:06" end="00:12:54:21" region="pop1" style="basic" tts:origin="10% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">In Ethiopia, if we are talking about culture, the most famous is dance</span>
+      </p>
+      <p begin="00:12:54:23" end="00:12:59:10" region="pop1" style="basic" tts:origin="40.677083333333336% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Eskista dance, </span>
+      </p>
+      <p begin="00:12:54:23" end="00:12:59:10" region="pop1" style="basic" tts:origin="20.3125% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">you move a lot with your arms and with your chest</span>
+      </p>
+      <p begin="00:13:27:08" end="00:13:29:01" region="pop1" style="basic" tts:origin="39.739583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Well, here we go</span>
+      </p>
+      <p begin="00:13:33:14" end="00:13:37:08" region="pop1" style="basic" tts:origin="14.114583333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">We just need to keep our hands clean when we want to eat it</span>
+      </p>
+      <p begin="00:13:37:08" end="00:13:40:03" region="pop1" style="basic" tts:origin="27.447916666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">It's supposed to bring people together</span>
+      </p>
+      <p begin="00:13:40:17" end="00:13:46:04" region="pop1" style="basic" tts:origin="41.71875% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">This is Injera </span>
+      </p>
+      <p begin="00:13:40:17" end="00:13:46:04" region="pop1" style="basic" tts:origin="21.40625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">this is what they use in Ethiopia instead of bread</span>
+      </p>
+      <p begin="00:13:46:04" end="00:13:47:23" region="pop1" style="basic" tts:origin="36.614583333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">this is how you wrap it</span>
+      </p>
+      <p begin="00:13:49:15" end="00:13:53:05" region="pop1" style="basic" tts:origin="28.645833333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">make it look aesthetic too and then..</span>
+      </p>
+      <p begin="00:13:58:02" end="00:14:00:04" region="pop1" style="basic" tts:origin="28.802083333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Try the meat as well, and watch out</span>
+      </p>
+      <p begin="00:14:01:00" end="00:14:03:12" region="pop1" style="basic" tts:origin="33.28125% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I don't know if you like spicy</span>
+      </p>
+      <p begin="00:14:01:00" end="00:14:03:12" region="pop1" style="basic" tts:origin="46.354166666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">-I like</span>
+      </p>
+      <p begin="00:14:03:12" end="00:14:04:11" region="pop1" style="basic" tts:origin="43.020833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">So go for it</span>
+      </p>
+      <p begin="00:14:08:09" end="00:14:12:11" region="pop1" style="basic" tts:origin="19.84375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">You can call it chilli if you like, but it's called mitmita</span>
+      </p>
+      <p begin="00:14:13:19" end="00:14:20:14" region="pop1" style="basic" tts:origin="30.260416666666664% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">just a little bit like that for flavour. </span>
+      </p>
+      <p begin="00:14:13:19" end="00:14:20:14" region="pop1" style="basic" tts:origin="38.854166666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">You'll find out why</span>
+      </p>
+      <p begin="00:14:36:08" end="00:14:41:02" region="pop1" style="basic" tts:origin="16.770833333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I am looking for the good inside of people, their positivity</span>
+      </p>
+      <p begin="00:14:41:02" end="00:14:53:03" region="pop1" style="basic" tts:origin="22.395833333333332% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Even if they act strangely or being negative or </span>
+      </p>
+      <p begin="00:14:41:02" end="00:14:53:03" region="pop1" style="basic" tts:origin="34.0625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">acting the way I do not like</span>
+      </p>
+      <p begin="00:14:54:11" end="00:15:01:14" region="pop1" style="basic" tts:origin="10% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I still try to see the good in them and wait for that moment when it passes</span>
+      </p>
+      <p begin="00:15:01:14" end="00:15:02:20" region="pop1" style="basic" tts:origin="30.46875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">And everything is suddenly good</span>
+      </p>
+      <p begin="00:15:02:20" end="00:15:07:11" region="pop1" style="basic" tts:origin="14.635416666666668% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">I don't want to talk too much about what's wrong with people</span>
+      </p>
+      <p begin="00:15:07:11" end="00:15:10:13" region="pop1" style="basic" tts:origin="33.4375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">When do I feel in harmony?</span>
+      </p>
+      <p begin="00:15:10:13" end="00:15:18:17" region="pop1" style="basic" tts:origin="17.1875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">When I can do what I do in a way that makes me happy</span>
+      </p>
+      <p begin="00:15:20:06" end="00:15:26:01" region="pop1" style="basic" tts:origin="23.4375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">and I have time for my family and loved ones</span>
+      </p>
+      <p begin="00:15:26:19" end="00:15:29:04" region="pop1" style="basic" tts:origin="27.5% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">That's when harmony happens for me</span>
+      </p>
+      <p begin="00:15:29:04" end="00:15:33:09" region="pop1" style="basic" tts:origin="25.9375% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">It is not happening when I'm unbalanced</span>
+      </p>
+      <p begin="00:15:33:09" end="00:15:38:02" region="pop1" style="basic" tts:origin="26.197916666666668% 76.111111111111114%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">- that's not what harmony means to me. </span>
+      </p>
+      <p begin="00:15:33:09" end="00:15:38:02" region="pop1" style="basic" tts:origin="40.625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">Harmony gone.</span>
+      </p>
+      <p begin="00:15:39:10" end="00:15:42:02" region="pop1" style="basic" tts:origin="35.572916666666664% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">And what is love to me?</span>
+      </p>
+      <p begin="00:15:44:15" end="00:15:45:15" region="pop1" style="basic" tts:origin="46.875% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">God</span>
+      </p>
+      <p begin="00:15:46:12" end="00:15:50:17" region="pop1" style="basic" tts:origin="17.552083333333336% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">That's love to me. Everything good what we do.. is love</span>
+      </p>
+      <p begin="00:15:51:20" end="00:15:56:04" region="pop1" style="basic" tts:origin="24.427083333333332% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">How we try to help each other, create good</span>
+      </p>
+      <p begin="00:15:56:04" end="00:15:59:10" region="pop1" style="basic" tts:origin="28.90625% 83.055555555555557%" tts:textAlign="center">
+        <span tts:backgroundColor="#232323CC" tts:color="#B3AA0FFF" tts:fontSize="50px" tts:fontStyle="italic">The word “good” means love to me.</span>
+      </p>
+    </div>
+  </body>
+
+</tt>
