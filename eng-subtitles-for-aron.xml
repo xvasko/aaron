@@ -13,7 +13,7 @@
       <region tts:backgroundColor="transparent" xml:id="rollup3"/>
       <region tts:backgroundColor="transparent" xml:id="rollup4"/>
     </layout>
-  </head>
+  </head> 
 
   <body>
     <div>
